@@ -2,7 +2,7 @@
 
 🚀 **Workflow Automation | AI Web Builder | Data Analysis & Reporting**
 
-I specialize in building intelligent systems that streamline processes, automate workflows, and deliver actionable insights. My focus is on creating **AI-powered web applications**, **data dashboards**, and **custom reporting tools** that help businesses make smarter decisions.
+I specialize in building intelligent systems that streamline processes, automate workflows, and deliver actionable insights. My focus is on creating **AI-powered web applications**, **data dashboards**, **landing page**, **ecommerce website**  and **custom reporting tools** that help businesses make smarter decisions.
 
 ---
 
@@ -15,7 +15,7 @@ I specialize in building intelligent systems that streamline processes, automate
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, SQL, Power BI, Excel, Google App Stript, VBA 
+- **Languages**: Python, JavaScript, SQL, Power BI, Excel, Google App Script, VBA 
 - **Frameworks**: Django, Flask, React  
 - **Data Tools**: Pandas, NumPy, Power BI, Tableau  
 - **Automation**: Zapier, Airflow, Custom APIs  
